@@ -1,5 +1,4 @@
 #!/usr/bin/env just --justfile
-set dotenv-load
 repo := "ghcr.io/ianhewlett"
 image := "wiremock"
 
